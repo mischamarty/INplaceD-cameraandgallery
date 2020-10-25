@@ -1,0 +1,7 @@
+${PODS_ROOT}/Target Support Files/Pods-INPGallery/Pods-INPGallery-frameworks.sh
+${BUILT_PRODUCTS_DIR}/AXStateButton/AXStateButton.framework
+${BUILT_PRODUCTS_DIR}/AssetsPickerViewController/AssetsPickerViewController.framework
+${BUILT_PRODUCTS_DIR}/Device/Device.framework
+${BUILT_PRODUCTS_DIR}/FLAnimatedImage/FLAnimatedImage.framework
+${BUILT_PRODUCTS_DIR}/SnapKit/SnapKit.framework
+${BUILT_PRODUCTS_DIR}/iOSPhotoEditor/iOSPhotoEditor.framework
